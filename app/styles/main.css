@@ -1,0 +1,33 @@
+#translate-popover{
+    width: 300px;
+    color: black;
+    text-align: left;
+    position: fixed;
+    border: solid red 1px;
+    background-color: beige;
+}
+
+.translate-title{
+    margin: 0px;
+    min-height: 40px;
+    padding: 10px 35px 10px 10px;
+    font-size: 18px;
+    word-wrap: break-word;
+}
+
+.translate-content{
+    height: 100px;
+    padding: 10px;
+    font-size: 15px;
+    overflow-y: auto;
+    background-color: white;
+}
+
+.translate-close{
+    float: right;
+    margin: 5px 8px;
+}
+
+.translate-close:hover{
+    background-color: transparent;
+}

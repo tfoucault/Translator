@@ -1,6 +1,9 @@
 {
   "name": "translator",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "latest",
+    "js-base64": "latest"
+  },
   "devDependencies": {}
 }

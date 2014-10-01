@@ -1,6 +1,6 @@
 {
     "name": "Translator",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "manifest_version": 2,
     "description": "Word by word translation",
     "icons": {
@@ -23,12 +23,10 @@
                 "http://*/*"
             ],
             "css": [
-                "./bower_components/bootstrap/dist/css/bootstrap.min.css"
+                "./styles/main.css"
             ],
             "js": [
                 "./bower_components/jquery/dist/jquery.js",
-                "./bower_components/bootstrap/dist/js/bootstrap.min.js",
-                "./bower_components/jquery.selection/src/jquery.selection.js",
                 "./bower_components/js-base64/base64.min.js",
                 "./scripts/contentscript.js"
             ]
