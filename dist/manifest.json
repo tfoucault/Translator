@@ -1,6 +1,6 @@
 {
     "name": "Translator",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "manifest_version": 2,
     "description": "Word by word translation",
     "icons": {

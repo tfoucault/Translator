@@ -481,6 +481,10 @@ $(document).ready(function () {
     }
   };
 
+  $(document).scroll(function(){
+    $('#translate-popover').hide();
+  });
+
   /**
    * Quand on double click sur un mot, on ouvre la popup de traduction
    */
